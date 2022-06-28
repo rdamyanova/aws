@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CustomerId": 1,
+    "UserId": 3,
+    "FirstName": "Lei",
+    "LastName": "Keave",
+    "CityId": 3,
+    "Street": "86471 Pierstorff Crossing"
+  },
+  {
+    "CustomerId": 2,
+    "UserId": 4,
+    "FirstName": "Ruo",
+    "LastName": "McArd",
+    "CityId": 3,
+    "Street": "09 Loeprich Street"
+  },
+  {
+    "CustomerId": 3,
+    "UserId": 5,
+    "FirstName": "Serena",
+    "LastName": "Dunsmuir",
+    "CityId": 3,
+    "Street": "5557 Welch Place"
+  }
+]

@@ -1,0 +1,18 @@
+﻿[
+  {
+    "ShipmentId": 1,
+    "DepartureDate": "2023-10-10",
+    "ArrivalDate": "2023-11-19",
+    "DepartureWarehouseId": 1,
+    "ArrivalWarehouseId": 3,
+    "Status": 2
+  },
+  {
+    "ShipmentId": 2,
+    "DepartureDate": "2023-10-08",
+    "ArrivalDate": "2023-11-29",
+    "DepartureWarehouseId": 2,
+    "ArrivalWarehouseId": 3,
+    "Status": 0
+  }
+]

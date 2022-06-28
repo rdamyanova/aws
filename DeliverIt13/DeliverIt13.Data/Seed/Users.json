@@ -1,0 +1,32 @@
+﻿[
+  {
+    "UserId": "1",
+    "Password": "7ECDObj1u",
+    "email": "lcoolbear0@twitter.com",
+    "Type": 0
+  },
+  {
+    "UserId": "2",
+    "Password": "BqgNUUHWQx9",
+    "email": "wlavalle1@businessweek.com",
+    "Type": 0
+  },
+  {
+    "UserId": 3,
+    "Password": "oQf5QcRUod",
+    "email": "lkeave@hc360.com",
+    "Type": 1
+  },
+  {
+    "UserId": 4,
+    "Password": "u9O7snCZFug",
+    "email": "rmcard@bloomberg.com",
+    "Type": 1
+  },
+  {
+    "UserId": 5,
+    "Password": "QtcWC6",
+    "email": "sdunsmuir@baidu.com",
+    "Type": 1
+  }
+]
